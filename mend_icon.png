@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#FFFDF9" />
+      <stop offset="100%" stop-color="#FCE5CD" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="128" ry="128" fill="url(#bgGradient)" />
+  <line x1="170" y1="380" x2="342" y2="380" stroke="#4A2E1B" stroke-width="8" stroke-linecap="round" />
+  <path d="M256,380 L256,230" stroke="#4A2E1B" stroke-width="8" stroke-linecap="round" />
+  <path d="M256,330 C210,320 170,270 170,240 C195,240 230,270 256,300" fill="#4A2E1B" />
+  <path d="M170,240 C195,255 225,290 256,300" stroke="#FFFDF9" stroke-width="2" fill="none" opacity="0.3" />
+  <path d="M256,330 C302,320 342,270 342,240 C317,240 282,270 256,300" fill="#4A2E1B" />
+  <path d="M342,240 C317,255 287,290 256,300" stroke="#FFFDF9" stroke-width="2" fill="none" opacity="0.3" />
+  <g transform="translate(0, -45)">
+    <path d="M256,275 C225,240 215,190 235,145 C240,135 245,140 250,150 C256,165 260,185 256,205 C260,185 266,165 272,150 C277,140 282,135 287,145 C307,190 297,240 256,275 Z" fill="#D99B82" />
+    <path d="M256,275 C240,230 240,190 254,160 C255,158 257,158 258,160 C272,190 272,230 256,275 Z" fill="#C5856C" opacity="0.8" />
+  </g>
+  <text x="256" y="440" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="52" font-weight="400" fill="#4A2E1B" text-anchor="middle" letter-spacing="2">Mend</text>
+</svg>
